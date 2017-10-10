@@ -129,6 +129,16 @@ a.lessons:hover, a.get-help:hover {
   border: 2px solid lightblue;
   border-radius: 5px;
   margin-top: 60px;
+  margin-left: 15px;
+  padding-left: 2%;
+  padding-right: 2%;
+}
+
+li.lessons-menu {
+  list-style: none;
+  margin-top: 2%;
+  border: 1px solid lightgrey;
+  border-radius: 5px;
 }
 
 .get-help-menu {
@@ -138,6 +148,13 @@ a.lessons:hover, a.get-help:hover {
   border-radius: 5px;
   margin-top: 60px;
   margin-left: 160px;
+  padding-left: 2%;
+  padding-right: 2%;
 }
 
-
+li.get-help-menu {
+  list-style: none;
+  margin-top: 2%;
+  border: 1px solid lightgrey;
+  border-radius: 5px;
+}

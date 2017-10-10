@@ -1,6 +1,7 @@
 $('.lessons').click( function(event) {
     event.preventDefault();
     $('.lessons-menu').removeClass('hidden');
+    $('.get-help-menu').addClass('hidden');
     $('.lessons-menu').html(
       '<div class="lessons-menu-box">' +
         '<ul class="menu-box-ul">AIARE Level 2 - Rec' +
@@ -20,6 +21,7 @@ $('.lessons-menu').click( function(event) {
 $('.get-help').click( function(event) {
     event.preventDefault();
     $('.get-help-menu').removeClass('hidden');
+    $('.lessons-menu').addClass('hidden');
     $('.get-help-menu').html(
       '<div class="get-help-menu-box">' +
         '<ul class="menu-box-ul">Resources' +
