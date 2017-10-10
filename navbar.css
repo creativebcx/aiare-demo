@@ -74,20 +74,13 @@ a.lessons:hover, a.get-help:hover {
   margin-right: 5px;
 }
 
-.menu-style {
-  z-index: 0;
+.menu {
+  z-index: 1;
   position: absolute;
-  width: 100%;
+  top: 19px;
+  font-size: 20px;
   text-align: right;
-  top: 7px;
-}
-
-.menu-style img {
- display: inline-block;
-  margin-right: 190px;
-  width: 40px;
-  height: auto;
-  border-radius: 15%;
+  color: black;
 }
 
 .avatardemo-style {
