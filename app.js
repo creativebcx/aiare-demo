@@ -25,7 +25,7 @@ $('.get-help').click( function(event) {
         '<ul class="menu-box-ul">Resources' +
           '<li class="lessons-menu"><a class="menu-link">Ask Questions About Curriculum</a></li>' +
           '<li class="lessons-menu"><a class="menu-link">Report an Issue</a></li>' +
-          '<li class="lessons-menu"><a class="menu-link">Email AIARE</a></li>' +
+          '<li class="lessons-menu"><a class="menu-link">Contact AIARE</a></li>' +
         '</ul>' +
       '</div>'
     )
