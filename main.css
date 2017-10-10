@@ -1,0 +1,46 @@
+.lower-wrapper {
+  margin-top: 10%;
+}
+
+.heading {
+  margin-bottom: 5%;
+  font-size: 20px;
+  border-bottom: 2px solid lightblue;
+}
+
+.lesson-wrapper {
+  z-index: -1;
+  position: absolute;
+  margin-left: 32%;
+  width: 66%;
+  height: 100%;
+}
+
+.outcomes {
+  border: 2px solid lightblue;
+  border-radius: 5px;
+  margin-bottom: 5%;
+}
+
+.learning-ul-style {
+  padding-left: 0px;
+  margin-left: 2%;
+}
+
+.learning-li-style {
+  margin-left: 5%;
+}
+
+.weak-layers-wrapper {
+  border: 2px solid lightblue;
+  padding: 2%;
+  border-radius: 5px;
+  margin-bottom: 5%;
+}
+
+.weak-layer-iframe {
+  border: 2px solid lightblue;
+  padding: 2%;
+  border-radius: 5px;
+  margin-bottom: 5%;
+}
